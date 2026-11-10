@@ -23,4 +23,4 @@ The project focuses on applying concepts learned in IT Support and Information T
 
 ## Project Link
 
-[View Individual Project](https://github.com/TALZ0/Ai-powered-service-desk-assistant-Capaciti/blob/main/Tech_Titans_final_Presentation_of_Ticket_Classification.pdf)
+[View Individual Project](https://rainbow-croquembouche-dfb189.netlify.app/)
