@@ -23,4 +23,4 @@ The project focuses on applying concepts learned in IT Support and Information T
 
 ## Project Link
 
-[View Individual Project](https://rainbow-croquembouche-dfb189.netlify.app/)
+[View Individual Project](https://preview--cherished-work-garden.lovable.app/?__lovable_receipt=mat_2fp3haz98a8c78zq8mrd4p3nn5)
